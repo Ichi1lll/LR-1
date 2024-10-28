@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <title>
+
+             Рябич Кирило 302 - ТН Лабораторна робота №3
+
+             </title>
+    </head>
+    <body>
+        <body bgcolor="#FF8000" text="#">
+
+        </body>
+        <p align = "CENTER">
+
+        </p>
+       <font color="#OOFFOO" front face = Consolas>
+         <h1>
+            <i>
+                Про себе
+            </i>
+        </h1>
+    </font>
+
+      <p>
+        <i>
+            Я рябич Кирило Володимирович, народився 15 квітня 2005 року в м.Полтава, Полтавської області.
+        </i>
+    </p> 
+
+       <u>
+
+        <P>
+            У 2022 році закинчив школу в селі Драбинівка, Новосанжарський район, Полтавська область.
+        </P>
+    </u>
+
+       <p>
+        <b>
+            У 2022 року вступив до Національного університету "Полтавська політехніка імені Юрія Кондратюка",до ННІІТР 1 - го курсу за спеціальністю 122 - Комп'ютерні науки.Зараз продовжую навчання на 3 курсі.
+        </p>
+    </b>
+
+       <p>
+        <font color="#FFOOOO" front face = arial>
+            <h1>
+                <i>Моє хобби</i>
+            </h1>
+        </font>
+    </p>
+
+       <ul>
+
+                <li><b>Читання Книг</b></li>
+
+                <li><b>Комп'ютерні ігри</b></li>
+
+                <li><b>Спорт</b></li>
+
+                <li><b>Програмування на C++</b></li>
+
+                <li><b>Малювання</b></li>
+       </ul>
+
+       <p><font color="#OOOOFF" front face ="Courier New">
+        
+        <h1>
+            <i>
+                Програмування, приклад коду
+            </i>
+        </h1>
+    </font>
+</p>
+
+       <pre>
+            int main() {
+                int size;
+                cout << "Enter square size: ";
+                cin >> size;
+            
+                for (int i = 0; i < size; i++) {
+                    for (int j = 0; j < size; j++) {
+                        cout << "* ";
+                    }
+                    cout << endl;
+                }
+            
+                return 0;
+            }
+            
+       </pre>
+
+       <p align="center">
+        <img src="./Logolb2.png" alt="moon" border = "0" width="150" height="150" />
+    </p>
+       <p align="right">
+        <i>
+            <u>
+                Студент групи 302 - ТН Рябич К.В.
+            </u>
+        </i>
+    </p>
+
+
+    </body>
+</html>
